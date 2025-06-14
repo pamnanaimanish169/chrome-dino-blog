@@ -1,4 +1,4 @@
-baseURL = 'https://blog.dinogamerunner.in/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Play Chrome Dino Game Online - Blog'
 theme = 'hugo-paper'
@@ -6,3 +6,6 @@ theme = 'hugo-paper'
 [params]
   author = 'Admin'
   homeSubtitle = 'Play the classic Chrome Dino Game online. Fun, fast, and free for all ages!'
+
+relativeURLs = true
+canonifyURLs = true
