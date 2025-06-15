@@ -15,7 +15,7 @@ The Chrome Dino Game initially built as a Easter egg within Chrome, appearing wh
 
 It was originally developed by the Chrome UX team in 2014 consisting of  Sebastien Gabriel, Alan Bettes, and Edward Jung. It was given the Codename “Project Bolan” in the reference of Marc Bolan the lead singer of the Band T-Rex.
 
-If you are interested in the detailed history of the Chrome Dino Game, visit our site [here](http://dinogamerunner.in/history.html).
+If you are interested in the detailed history of the Chrome Dino Game, visit our site [here](https://dinogamerunner.in/history.html).
 
 ## Why is the Chrome Dino Game so popular?
 
