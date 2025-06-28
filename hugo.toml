@@ -9,3 +9,4 @@ theme = 'hugo-paper'
 
 relativeURLs = true
 canonifyURLs = true
+googleAnalytics = 'G-45MDPJ1224'
